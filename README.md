@@ -9,6 +9,7 @@
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
   </div>
 
   <!-- GitHub 统计图也放在此处居中 -->
@@ -18,12 +19,12 @@
 
 </div>
 
+
 <!-- 自我介绍和名言单独用一个左对齐的容器 -->
 <div align="left" style="margin-top: 30px;">
   <p>
     I am an undergraduate student at the School of Information and Communication Engineering, Communication University of China, and a member of the Multimedia Intelligent Processing Group (MIPG). My academic interests lie in computer vision, and I am currently focused on research in deep generative models.
   </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Better+later+than+never." alt="Typing SVG" />
-  </p>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E900&width=435&lines=++++Better+later+than+never.)](https://git.io/typing-svg)
