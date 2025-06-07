@@ -14,7 +14,7 @@
 
   <!-- GitHub 统计图也放在此处居中 -->
   <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ai-ze&show_icons=true&theme=catppuccin_mocha" alt="我的 GitHub 统计" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ai-ze&show_icons=true&theme=ayu-mirage" alt="我的 GitHub 统计" />
   </div>
 
 </div>
