@@ -22,4 +22,4 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E900&width=435&lines=Better+later+than+never.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EECE87&width=435&lines=Better+later+than+never.)](https://git.io/typing-svg)
